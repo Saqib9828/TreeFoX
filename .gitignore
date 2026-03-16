@@ -28,3 +28,7 @@ saved_model/
 **/variables.index
 **/assets/
 **/trained_model/
+
+# Large datasets (do not push)
+Tree-FoX/model/dataset/
+Tree-FoX/model_v2/dataset/
