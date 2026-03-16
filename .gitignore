@@ -1,0 +1,30 @@
+.DS_Store
+**/.DS_Store
+.idea/
+
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# datasets / outputs
+data/
+dataset/
+datasets/
+outputs/
+results/
+runs/
+*.csv
+
+# model artifacts (TensorFlow / PyTorch)
+*.h5
+*.ckpt
+*.pth
+*.pt
+saved_model/
+**/saved_model/
+**/variables/
+**/variables.data-*
+**/variables.index
+**/assets/
+**/trained_model/
